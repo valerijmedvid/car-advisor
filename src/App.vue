@@ -7,5 +7,3 @@
     <h1>CarAdvisor</h1>
   </div>
 </template>
-
-<style scoped></style>
